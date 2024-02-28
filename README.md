@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
 - 📚 Estudo na Universidade Federal da Bahia
 - 🏠 Brasil, Salvador, Bahia
-- ⚡ Desde pequeno sempre me interessei em tecnologia de uma maneira geral
+  <br>
   <div>
     <a href="https://github.com/gabrielcuryy">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcuryy&layout=compact&langs_count=7&theme=dracula"/>
