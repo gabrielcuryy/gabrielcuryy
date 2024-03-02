@@ -1,7 +1,7 @@
-# Olá, me chamo Gabriel Cury ! 
-## Bem vindo ao meu perfil GitHub 👋
-- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
-- 📚 Estudo na Universidade Federal da Bahia
+# Hello, my name is Gabriel Cury!
+## Welcome to my GitHub profile 👋
+- 🌱 I'm currently learning HTML, CSS and JavaScript
+- 📚 Study at the Federal University of Bahia
 - 🏠 Brasil, Salvador, Bahia
   <div>
     <a href="https://github.com/gabrielcuryy">
